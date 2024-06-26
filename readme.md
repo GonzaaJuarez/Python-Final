@@ -48,7 +48,7 @@
 
 ***pip*** es el administrador de paquetes de Python. Es una herramienta que permite instalar, actualizar y gestionar bibliotecas adicionales que no están incluidas en la biblioteca estándar de Python. Con ***pip***, puedes descargar paquetes desde el [Python Package Index (PyPI)](https://pypi.org/) y otros índices, facilitando la adición de nuevas funcionalidades a tus proyectos.
 
-Actualizar ***pip*** es crucial por varias razones. Primero, las nuevas versiones de ***pip*** incluyen parches de seguridad que protegen tu entorno de desarrollo. Segundo, las actualizaciones traen nuevas funcionalidades y mejoras que hacen la gestión de paquetes más eficiente. Además, las actualizaciones aseguran una mejor compatibilidad con las últimas versiones de Python y otros paquetes, y corrigen errores presentes en versiones anteriores, mejorando la estabilidad y el rendimiento de ***pip***. Mantener `pip` actualizado garantiza que tu entorno de desarrollo sea seguro, eficiente y compatible con las últimas tecnologías.
+Actualizar ***pip*** es crucial por varias razones. Primero, las nuevas versiones de ***pip*** incluyen parches de seguridad que protegen tu entorno de desarrollo. Segundo, las actualizaciones traen nuevas funcionalidades y mejoras que hacen la gestión de paquetes más eficiente. Además, las actualizaciones aseguran una mejor compatibilidad con las últimas versiones de Python y otros paquetes, y corrigen errores presentes en versiones anteriores, mejorando la estabilidad y el rendimiento de ***pip***. Mantener ***pip*** actualizado garantiza que tu entorno de desarrollo sea seguro, eficiente y compatible con las últimas tecnologías.
 
 
 12. **Hacer al primer commit de este trabajo y unirlo al repositorio remoto.**
